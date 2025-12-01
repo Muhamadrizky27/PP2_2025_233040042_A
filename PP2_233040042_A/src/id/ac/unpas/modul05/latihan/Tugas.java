@@ -1,3 +1,5 @@
+package id.ac.unpas.modul05.latihan;
+
 import javax.swing.*;
 import java.awt.*;
 
@@ -6,7 +8,7 @@ public class Tugas {
         SwingUtilities.invokeLater((new Runnable() {
             @Override
             public void run() {
-                JFrame frame = new JFrame("Contoho BorderLaayout dengan Aksi Lengkap");
+                JFrame frame = new JFrame("Contoh BorderLaayout dengan Aksi Lengkap");
                 frame.setSize(400, 300);
                 frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 

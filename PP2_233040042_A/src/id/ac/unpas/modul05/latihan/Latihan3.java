@@ -1,3 +1,5 @@
+package id.ac.unpas.modul05.latihan;
+
 import javax.swing.*;
 import java.awt.*;
 

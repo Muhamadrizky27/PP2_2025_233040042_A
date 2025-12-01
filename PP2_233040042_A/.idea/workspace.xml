@@ -4,7 +4,42 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6a24d6de-b1a9-4f63-b1d1-26a49281e57d" name="Changes" comment="" />
+    <list default="true" id="6a24d6de-b1a9-4f63-b1d1-26a49281e57d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/id/ac/unpas/modul05/latihan/Latihan1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/id/ac/unpas/modul05/latihan/Latihan2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/id/ac/unpas/modul05/latihan/Latihan3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/id/ac/unpas/modul05/latihan/Latihan4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/id/ac/unpas/modul05/latihan/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/id/ac/unpas/modul05/latihan/Tugas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/id/ac/unpas/modul06/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/id/ac/unpas/modul06/contoh/ContohFlowLayout.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/id/ac/unpas/modul06/contoh/ContohGridLayout.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/id/ac/unpas/modul06/latihan/Latihan1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/id/ac/unpas/modul06/latihan/Latihan2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/id/ac/unpas/modul07/latihan/ManajemenNilaiSiswaApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/id/ac/unpas/modul07/latihan/TugasManajemenNilaiSiswaApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/id/ac/unpas/modul08/controller/PersegiPanjangController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/id/ac/unpas/modul08/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/id/ac/unpas/modul08/model/PersegiPanjangModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/id/ac/unpas/modul08/view/PersegiPanjangView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modul6/src/ContohActionListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/id/ac/unpas/modul06/contoh/ContohActionListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modul6/src/ContohBorderLayout.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/id/ac/unpas/modul06/contoh/ContohBorderLayout.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modul6/src/ContohFlowLayout.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modul6/src/ContohGridLayout.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modul6/src/ContohMouseListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/id/ac/unpas/modul06/contoh/ContohMouseListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modul6/src/Latihan1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modul6/src/Latihan2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modul6/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Modul6/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modul7/modul7/src/ManajemenNilaiSiswaApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Modul7/modul7/src/ManajemenNilaiSiswaApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modul7/modul7/src/TugasManajemenNilaiSiswaApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Modul7/modul7/src/TugasManajemenNilaiSiswaApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Latihan1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Latihan2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Latihan3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Latihan4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tugas.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,6 +52,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
 }</component>
@@ -27,6 +65,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.ContohBorderLayout.executor": "Run",
     "Application.Latihan1.executor": "Run",
     "Application.Latihan2.executor": "Run",
     "Application.Latihan3.executor": "Run",
@@ -35,8 +74,11 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "onboarding.tips.debug.path": "C:/Users/Lenovo/IdeaProjects/PP2_233040042_B/src/Main.java"
+    "last_opened_file_path": "C:/Users/Lenovo/IdeaProjects/PP2_233040042_A",
+    "onboarding.tips.debug.path": "C:/Users/Lenovo/IdeaProjects/PP2_233040042_A/Modul08/src/Main.java"
   }
 }]]></component>
   <component name="TaskManager">
@@ -53,9 +95,9 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Main.java</url>
+          <url>file://$PROJECT_DIR$/Modul08/src/Main.java</url>
           <line>11</line>
-          <option name="timeStamp" value="1" />
+          <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
