@@ -1,7 +1,7 @@
 package id.ac.unpas.modul10.controller;
 
 import id.ac.unpas.modul10.model.Mahasiswa;
-import id.ac.unpas.modul10.model.MahasiswaI;
+import id.ac.unpas.modul10.model.MahasiswaDAO;
 import id.ac.unpas.modul10.view.MahasiswaView;
 
 import javax.swing.*;
@@ -9,12 +9,12 @@ import java.util.List;
 
 public class MahasiswaController {
     private MahasiswaView view;
-    private MahasiswaI dao;
+    private MahasiswaDAO dao;
 
 
     public MahasiswaController(MahasiswaView view) {
         this.view = view;
-        this.dao = new MahasiswaI();
+        this.dao = new MahasiswaDAO();
 
         initController();
     }

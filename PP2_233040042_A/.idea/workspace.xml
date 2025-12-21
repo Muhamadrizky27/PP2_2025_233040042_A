@@ -5,22 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6a24d6de-b1a9-4f63-b1d1-26a49281e57d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/id/ac/unpas/modul09/AplikasiFileIO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/id/ac/unpas/modul09/Latihan2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/id/ac/unpas/modul09/Latihan4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/id/ac/unpas/modul09/UserConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/id/ac/unpas/modul10/KoneksiDB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/id/ac/unpas/modul10/Latihan2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/id/ac/unpas/modul10/Latihan3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/id/ac/unpas/modul10/Latihan4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/id/ac/unpas/modul10/MahasiswaApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/id/ac/unpas/modul10/MainApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/id/ac/unpas/modul10/controller/MahasiswaController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/id/ac/unpas/modul10/model/Mahasiswa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/id/ac/unpas/modul10/model/MahasiswaI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/id/ac/unpas/modul10/view/MahasiswaView.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PP2_233040042_B.iml" beforeDir="false" afterPath="$PROJECT_DIR$/PP2_233040042_B.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/id/ac/unpas/modul10/controller/MahasiswaController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/id/ac/unpas/modul10/controller/MahasiswaController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/id/ac/unpas/modul10/model/MahasiswaI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/id/ac/unpas/modul10/model/MahasiswaDAO.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

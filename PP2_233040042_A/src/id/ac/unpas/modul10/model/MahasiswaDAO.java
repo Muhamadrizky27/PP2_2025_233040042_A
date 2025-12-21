@@ -7,7 +7,7 @@ import java.sql.*;
 import java.util.ArrayList;
 import java.util.List;
 
-public class MahasiswaI {
+public class MahasiswaDAO {
 
     public List<Mahasiswa> getAllMahasiswa() throws SQLException {
         List<Mahasiswa> list = new ArrayList<>();
